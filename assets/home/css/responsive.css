@@ -1,0 +1,606 @@
+@media only screen and (min-width:1025px){
+	.pl-150{
+		padding-left: 150px;
+	}
+
+	.pr-140{
+		padding-right: 140px;
+	}
+
+	.plr-100{
+		padding-left: 100px;
+	}
+	.pr-104{
+		padding-right: 104px;
+	}
+
+	.pl-74{
+		padding-left: 74px;
+	}
+
+	.plg0{
+		padding: 0;
+	}
+	
+
+	.ap-footer .ap-container{
+	  width: calc(100vw - 200px);
+	  margin: 0px auto;
+	}
+
+	form#user-detail input{
+		width: 300px;
+		height: 51px;
+	}
+
+	#retreats-carousel .owl-carousel .owl-item img {
+	    width: 373px;
+	    height: 373px;
+	    object-fit: cover;
+	}
+}
+
+@media only screen and (min-width:1024px){
+
+	.mt-lg-40{
+		margin-top: 40px;
+	}
+	.mr-100{
+		margin-right: 100px;
+	}
+
+	.mt-75{
+		margin-top: 75px;
+	}
+
+	.ptb-0{
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+
+	.pr-45{
+		padding-right: 45px !important;
+	}
+
+	.pr-95{
+		padding-right: 95px;
+	}
+
+	.plr-50{
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+
+	.tr-text{
+		/*width: 62%;*/
+	}
+
+	
+
+	#minuts-line{
+		width: 270px;
+	}
+
+	.ty-text{
+		width: 840px;
+	}
+
+	.main-wrapper-post .top-menu {
+	    position: fixed;
+	}
+
+	.main-wrapper-post .child-menu.megamenu {
+	    position: fixed;
+	    height: 100vh;
+	}
+
+	.main-wrapper-post.no-child-menu .main-content {
+	    margin-left: 60px;
+	}
+
+	.class-shedule {
+	    max-width: 22%;
+	}
+
+	
+	.testi .carousel-item p{
+		text-align: left;
+	}
+
+	.cost-outer .col-md-5{
+		max-width: 39%;
+	}
+
+	.cost{
+		padding-left: 55px;
+	    padding-right: 45px;
+	}
+
+	.header-text {
+	    padding-top: 155px;
+	}
+
+	.newslet-popup{
+		position: relative;
+		top: 20%;
+	}
+
+	.newslet-popup #newsletter{
+	  Width: 793px;
+	}
+
+	.main-wrapper-post .top-menu nav .site-nav li {
+	    margin-left: 40px;
+	}
+
+	#checkout{
+	  margin-bottom: 80px;
+	}
+
+	.login-here {
+	    margin-right: 90px;
+	}
+
+	
+	.pricing-popup .container {
+	    padding: 17px 110px 75px 110px;
+	}
+
+	#user-detail .row{
+	  margin-right: 60px;
+	}
+
+	.w-90{
+	  width: 90%;
+	}
+
+	.mr4 div.col-md-3:first-child, .mr4 div.col-md-3:nth-child(2), .mr5 div.col-md-5:first-child{
+		margin-right: 55px;
+	}
+
+	.carousel-control-prev {
+	    left: -20px;
+
+	}
+
+	#retreats-carousel .owl-prev, #ty-slider .owl-prev {
+    	left: 80px;
+    }
+
+    #retreats-carousel .owl-next, #ty-slider .owl-next {
+    	right: 55px;
+	}
+
+	.w-76{
+		width: 76%;
+	}
+
+	.f-left a, .pnt a{
+		margin-right: 40px;
+	}
+
+	.c-form form input[type="text"], .c-form form input[type="email"]{
+	  width: 85%;
+	}
+
+	#retreats-carousel .owl-carousel .owl-item{
+  margin-right: 7px !important;
+}
+
+}
+
+@media only screen and (min-width: 1024px){
+		#retreats-carousel .owl-next, #ty-slider .owl-next {
+    right: 90px;
+}
+	}
+
+@media only screen and (min-width: 780px){
+	.c-form textarea{
+		width: 85%;
+	}
+}
+
+
+@media only screen and (min-width:1023px) and (max-width:1024px){
+	.pr-col .txt-p {
+	    bottom: 85px;
+	}
+
+	#retreats-carousel .owl-carousel .owl-item img {
+	    height: 300px;
+	    object-fit: cover;
+	}
+}
+
+@media only screen and (max-width: 768px){
+	.main-wrapper-post .child-menu.megamenu {
+	    position: absolute;
+	    height: unset;
+	    display: none !important;
+	}
+	.main-wrapper-post .top-menu {
+	    height: 100vh;
+	    display: none;
+	}
+
+	.main-wrapper-post.no-child-menu .main-content {
+	    width: 100%;
+	    margin-left: 0;
+	}
+
+	.menu.mobile {
+	    display: block;
+	}
+
+	.cost-heading {
+	    margin-left: 2px;
+	}
+
+	
+	
+}
+
+@media (max-width: 576px){
+	.main-wrapper-post .main-content .banner-hero {
+	    height: 0;
+	    padding: 0;
+	    padding-top: 56.25vw;
+	    margin-top: 55px;
+	}
+
+	.booking-mobile {
+	    display: unset;
+	}
+
+	.jn-desktop-only {
+	    display: none !important;
+	}
+}
+
+	@media (max-width: 768px){
+	.main-wrapper-post .main-content .banner-hero {
+	    height: 500px;
+	    /*padding: 30px;*/
+	}
+}
+	@media only screen and (max-width: 1024px){
+	.main-wrapper-post .top-menu {
+	    position: fixed;
+	}
+
+	.pr-col {
+		text-align: center;
+	    max-width: 50%;
+	    flex: 0 0 50%;
+	}
+
+}
+
+	@media (max-width: 768px){
+	.main-wrapper-post .child-menu {
+	    height: 100vh;
+	    display: none;
+	}
+
+
+}
+
+
+@media (min-width: 768px){
+	.f-left a, .pnt a{
+		line-height: 50px;
+	}
+
+	.f-right span{
+	    line-height: 50px;
+	}
+
+
+	#newsletter form input{
+	  margin-right: 17px;
+	}
+
+	#newsletter form input[type="text"],
+	#newsletter form input[type="email"] {
+		padding: 0px 15px 0px 17px;
+	}
+
+	.w-60{
+		width: 60%;
+	}
+
+	
+
+	.mr4 div.col-md-3:first-child, .mr4 div.col-md-3:nth-child(2), .mr5 div.col-md-5:first-child{
+	  margin-right: 25px;
+	}
+
+	.ml-15{
+		margin-left: -15px;
+	}
+
+	#signMe-up form input[type="text"],#signMe-up form input[type="email"]{
+	  margin-right: 15px;
+	}
+	.pricing-popup .card img, .pricing .card img{
+		height: 177px;
+	}
+
+}
+
+@media only screen and (min-width:667.5px) and (max-width:1024px){
+.video .desc {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+}
+@media only screen and (min-width:667.5px) and (max-width:768px){
+
+
+	.tr-text{
+		width: 100%;
+	}
+
+	.header-sticky-btns {
+	    top: 62px;
+	    right: 68px;
+	}
+
+	form#user-detail input{
+		width: 100%;
+	}
+
+
+	.pricing-popup .card-body h1, .pricing .card-body h1 {
+	    font-size: 30px;
+	}
+
+	.text{
+
+	  	font-size: 15px;
+	}
+
+	#retreats-carousel .owl-carousel .owl-item img {
+	    height: 250px;
+	    object-fit: cover;
+	}
+
+}
+
+@media only screen and (max-width:768px){
+
+	.pr-col .txt-p {
+	    bottom: 65px;
+	}
+
+	.testi .carousel-item{
+		text-align: left;
+	}
+
+	.c-form textarea{
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width:600px){
+
+	#home-main{
+		background-size: cover;
+	}
+
+	.header-sticky-btns {
+	    top: 56px;
+	    right: 0px;
+	}
+
+	.login{
+		background-color: #127DBD;
+
+	}
+
+	.listen-on-spotify, .listen-on-spotify h3 {
+		text-align: center;
+	}
+
+	.testi .carousel-item{
+		text-align: center;
+	}
+
+	.testi .carousel{
+		padding: 0;
+	}
+
+	.testi .carousel-control-prev, .testi .carousel-control-next{
+		width: 10px;
+		margin-top: 20px;
+	}
+
+	.testi .carousel-control-prev i, .testi .carousel-control-next i{
+		font-size: 34px;
+	}
+
+	.overview{
+		text-align: center;
+	}
+
+	.class-shedule {
+	    max-width: 49%;
+	    margin: 0px auto;
+	}
+
+	.carousel-indicators{
+		display: none;
+	}
+
+	#signMe-up form{
+		
+	}
+
+	#signMe-up form input{
+		display: block;
+		margin: auto;
+	}
+
+	.mt-xs-5{
+		margin-top: 50px;
+	}
+
+	.post-cost{
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
+	}
+
+	.co-heading {
+	    margin-bottom: 0px;
+	}
+
+	.pr-col {
+		text-align: center;
+	    max-width: 100%;
+	    flex: 0 0 100%;
+	}
+
+	.mb-small-2{
+		margin-bottom: 2rem;
+	}
+
+	
+}
+
+@media only screen and (min-width: 423px) and (max-width: 425px){
+	#retreats-carousel .owl-carousel .owl-item img {
+	    height: 350px;
+	    object-fit: cover;
+	}
+}
+
+@media only screen and (max-width:425px){
+	.tr-text{
+		width: 100%;
+	}
+
+	#newsletter #sign-up, #newsletter #sign{
+		display: block;
+    	margin: 0px auto;
+	}
+
+	.explore .explore-container .explore-menu .explore-menu-item{
+		font-size: 2em;
+		line-height: 50px;
+	}
+
+	.navbar-brand {
+	    margin-right: 0rem;
+	}
+
+	.header-right ul{
+		padding-inline-start: 0;
+	}
+
+	.forgot-form .container {
+	    width: 300px;
+	}
+
+	.testimonial p, .overview b {
+	    text-align: center;
+	    font-size: 14px !important;
+	    padding: 0 15px;
+	}
+
+	#newsletter form input[type="text"], #newsletter form input[type="email"] {
+	    padding: 13px 29px 15px 17px;
+	}
+
+	.ap-footer{
+		margin-bottom: 50px;
+	}
+}
+
+@media only screen and (max-width:375px){
+	.header-text {
+	    padding-top: 0px;
+	}
+
+	.login{
+		width: 90px;
+		height: 47px;
+	}
+
+	.login-form .container {
+	    width: 360px;
+	}
+
+	.f-left a, .pnt a {
+	    margin-right: 12px;
+	}
+
+	.header .container-fluid .header-left>*, .header .container-fluid .header-right>* {
+	    margin-right: 10px;
+	}
+
+	/*.video img {
+	    height: 340px;
+	}*/
+
+	.text{
+
+	  	font-size: 15px;
+	}
+	
+	.wrapper-content select{font-size: 12px;}
+
+	#retreats-carousel .owl-carousel .owl-item img {
+	    height: 270px;
+	    object-fit: cover;
+	}
+	
+}
+
+@media only screen and (max-width:320px){
+	.header-btns{
+		padding-inline-start: 0;
+	}
+
+	#home-main .navbar {
+	    padding: .5rem .5rem;
+	}
+
+	.login-form .container {
+	    width: 300px;
+	}
+
+	.f-left a, .pnt a {
+	    margin-right: 6px;
+	}
+
+	.header-text h2 {
+		font-size: 42px;
+	}
+
+	
+	.my-account {
+	    height: 44px;
+	    width: 114px;
+	    background-color: #127DBD;
+	    padding: 4px 15px 13px 9px;
+	    text-align: center;
+	}
+
+	.video .desc{
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.header-btns .dropdown-item {
+    padding: .25rem 1rem;
+  }
+
+	  .header-right .dropdown-item {
+	    padding: .25rem .9rem;
+	}
+}

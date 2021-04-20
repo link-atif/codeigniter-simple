@@ -1,0 +1,73 @@
+/*****fonts*******/
+
+@font-face {
+    font-family: 'tma';
+    src: url('../fonts/Tahoma-Bold.eot');
+    src: url('../fonts/Tahoma-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Tahoma-Bold.woff2') format('woff2'),
+        url('../fonts/Tahoma-Bold.woff') format('woff'),
+        url('../fonts/Tahoma-Bold.ttf') format('truetype'),
+        url('../fonts/Tahoma-Bold.svg#Tahoma-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'g_a';
+    src: url('../fonts/GretaArabic-Bold.eot');
+    src: url('../fonts/GretaArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GretaArabic-Bold.woff2') format('woff2'),
+        url('../fonts/GretaArabic-Bold.woff') format('woff'),
+        url('../fonts/GretaArabic-Bold.ttf') format('truetype'),
+        url('../fonts/GretaArabic-Bold.svg#GretaArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'g_a_r';
+    src: url('../fonts/GretaArabic.eot');
+    src: url('../fonts/GretaArabic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GretaArabic.woff2') format('woff2'),
+        url('../fonts/GretaArabic.woff') format('woff'),
+        url('../fonts/GretaArabic.ttf') format('truetype'),
+        url('../fonts/GretaArabic.svg#GretaArabic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'g_b';
+    src: url('../fonts/Georgia-Bold.eot');
+    src: url('../fonts/Georgia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Georgia-Bold.woff2') format('woff2'),
+        url('../fonts/Georgia-Bold.woff') format('woff'),
+        url('../fonts/Georgia-Bold.ttf') format('truetype'),
+        url('../fonts/Georgia-Bold.svg#Georgia-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'g_r';
+    src: url('../fonts/Georgia.eot');
+    src: url('../fonts/Georgia.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Georgia.woff2') format('woff2'),
+        url('../fonts/Georgia.woff') format('woff'),
+        url('../fonts/Georgia.ttf') format('truetype'),
+        url('../fonts/Georgia.svg#Georgia') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+

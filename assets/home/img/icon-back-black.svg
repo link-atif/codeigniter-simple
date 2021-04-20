@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Icon / Back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-4-/-Open-Booking-Menu" transform="translate(-40.000000, -70.000000)">
+            <g id="Group" transform="translate(30.000000, 61.000000)">
+                <g id="Icon-/-Back">
+                    <g id="Button-/-Quick-Bookings">
+                        <g id="Group-4">
+                            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="30" height="30" rx="15"></rect>
+                            <g id="icons8-back" transform="translate(9.000000, 8.000000)" fill="#1A1919">
+                                <polygon id="Path" points="7 0.9296875 0.9296875 7 7 13.070312 8.5 11.570312 3.9296875 7 8.5 2.4296875"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

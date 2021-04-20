@@ -1,0 +1,116 @@
+body {
+    text-align: right;
+}
+.banner_tp_gift_sec {
+    padding-right: 110px;
+    padding-left: 0;
+    margin-right: -90px;
+    margin-left: 0;
+}
+.banner_tp_gift_sec a {
+    float: right;
+}
+.tp_banner_links ul li {
+    float: right;
+    margin: 0 0 0 36px;
+}
+.tp_banner_left_img img {
+    float: right;
+}
+.culture_sec a {
+    float: right;
+}
+.footer_social {
+    float: left;
+}
+.footer_social a {
+    margin: 0 28px 0 0;
+}
+.footer_nav ul li {
+    float: right;
+}
+.footer_nav ul li a {
+    float: right;
+}
+.navbar-brand {
+    float: right;
+}
+.nav_right {
+    float: left;
+}
+.nav_right a {
+    margin: 0 13px 0 0;
+}
+.cart_counter {
+    left: -7px;
+    right: auto;
+}
+.about-top-inner:after {
+    left: 0;
+    right: auto;
+}
+.about-top-inner {
+    padding: 70px 40px 70px 0;
+}
+.about_tp_buttons {
+    text-align: left;
+}
+.share-article span {
+    margin-left: 0;
+    margin-left: 15px;
+}
+.blog_social span {
+    float: right;
+    margin: 3px 0 0 5px;
+}
+.blog_detail_content .blog_social {
+    float: right;
+}
+.item-info {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.gifts_numbring_content .gifts_number_col span {
+    left: auto;
+    right: 0;
+}
+.o-item-name {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.pd-actions {
+    position: absolute;
+    top: 16px;
+    right: auto;
+    left: 16px;
+}
+.pdp-top-list li {
+    margin-left: 30px;
+    margin-right: 0;
+}
+.o-item-avb {
+    text-align: right;
+}
+@media (max-width:1400px) {
+
+}
+@media (max-width:1199px) {
+    
+}
+@media (max-width:992px) {
+    .about-top-inner {
+        padding: 40px 20px;
+    }
+    .about_tp_buttons {
+        text-align: right;
+    }
+}
+@media (max-width:767px) {
+    .item-info {
+        padding-right: 0;
+    }
+    .o-item-name {
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
